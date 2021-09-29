@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "491049547277",
+    "project_id": "talkjarvis-f3fd8",
+    "storage_bucket": "talkjarvis-f3fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491049547277:android:24d88e36346a19bc554744",
+        "android_client_info": {
+          "package_name": "com.example.numberloginwithotpfirbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491049547277-rismo3nc7lp5qd9qoim3ppbv79tbh1gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHoQi965j5PwNLggGztWbEgrYXdxs5dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491049547277-rismo3nc7lp5qd9qoim3ppbv79tbh1gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491049547277:android:5ad5f508187a22a6554744",
+        "android_client_info": {
+          "package_name": "com.example.shaikhnoorish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491049547277-rismo3nc7lp5qd9qoim3ppbv79tbh1gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKHoQi965j5PwNLggGztWbEgrYXdxs5dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491049547277-rismo3nc7lp5qd9qoim3ppbv79tbh1gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
